@@ -1,0 +1,20 @@
+<resources>
+    <string name="actName1">Activity 1</string>
+    <string name="actName2">Activity 2</string>
+
+    <string name="imageDescription1">Local Market</string>
+    <string name="imageDescription2">Top View from Stairs</string>
+
+    <string name="Title1">Smokey Tours</string>
+    <string name="Title2">Manila For A Day</string>
+
+    <string name="mapButton">Map</string>
+    <string name="actButton1">Activity 2</string>
+    <string name="actButton2">Activity 1</string>
+
+    <string name="Distance1">Distance from UST: 2.6km</string>
+    <string name="Distance2">Distance from UST: 3.8km</string>
+
+    <string name="Location1">Location: Manila, Luzon 1102 Philippines</string>
+    <string name="Location2">Location: Intramuros Manila Gen. Luna Street, Manila, Luzon 1002 Philippines</string>
+</resources>
